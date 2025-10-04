@@ -7,3 +7,16 @@ I'm a 3rd-year engineering student passionate about learning, coding, and buildi
 - 🎓 Currently in 3rd year of Engineering
 - 💻 Interested in programming and development
 - 🌱 Always learning and exploring new technologies
+  🛠️ Skills
+Programming Languages:
+Python
+
+Web Development:
+HTML, CSS
+
+Database:
+SQL
+
+Monitoring & Observability Tools:
+Dynatrace
+
